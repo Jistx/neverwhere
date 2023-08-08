@@ -81,3 +81,5 @@ Do not tell in chat that you use scripts, do not show the executor/scripts on on
 ### Do not use random scripts <br>
 Always check the code by yourself, if it doesn't contain malicous code. <br>
 If you don't know coding and cannot read the source file, use our Script Hub or #scripts channel on our discord, or search on trustworthy sites/forums <br>
+
+
